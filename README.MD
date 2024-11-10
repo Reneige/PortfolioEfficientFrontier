@@ -12,7 +12,7 @@ Mini project that leverages the stocks API package written previously. This scri
 
 In the sample below, 4 random stocks are selected from the S&P 500 the tool then outputs the optimal portfolio weights, as well as an efficient frontier and a performance chart.
 
-# For this script to work, you must create a free Polygon.io API Key and add it to the Config.py file in your site-packages/stocks_api/ folder. Without this, the script will not work.
+For this script to work, you must create a free Polygon.io API Key and add it to the Config.py file in your site-packages/stocks_api/ folder. Without this, the script will not work.
 
 ## Screenshot
 
