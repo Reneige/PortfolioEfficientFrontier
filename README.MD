@@ -23,4 +23,4 @@ For this script to work, you must create a free Polygon.io API Key and add it to
 <img src="https://github.com/Reneige/PortfolioEfficientFrontier/blob/master/docs/prompt.gif" alt="Screenshot of optimal portfolio weights - Rene Alby, Oct 2023">
 
 
-Author: Rene Alby
+Author: Rene Alby, Oct 2023
